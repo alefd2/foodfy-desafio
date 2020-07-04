@@ -18,10 +18,10 @@ body {
 }
 
 .container {
-    width: 90%;
+    width: 80%;
     height: 100%;
     margin: 0 auto;
-    max-width: 1100px;
+    max-width: 900px;
 }
 
 html {
@@ -92,11 +92,10 @@ div .banner {
 
 /* ===============================*/
 .title {
-    margin: 4.5% 0 1.4% 82px;
+    margin: 4.5% 0 1.4% 0;
     font-size: 26px;
 }
 #receitas {
-    margin: 20px 20% 1.4% 82px;
     display: grid;
  
     grid-template-columns: 1fr 1fr 1fr;
@@ -142,8 +141,9 @@ section {
 
 section h1 {
     font-size: 24px;
+    font-weight: bold;
     color: #111111;
-    margin-bottom: 15px;
+    margin: 18px 0 20px 0;
 }
 section p {
     font-size: 18px;
@@ -152,10 +152,24 @@ section p {
     margin-bottom: 30px;
 }
 section h2 {
+    font-size: 20px;
     font-weight: bold;
-    font-size: 18px;
     color: #444444;
     line-height: 28px;
     margin-bottom: 20px;
    
 }
+
+
+/*=======  MODAl  ======*/
+
+.modal-overlay {
+    background-color: #FFFFFF;
+    width: 660px;
+    height: 413px;
+    border-radius: 16px;
+    position: fixed;
+    top:31.6%;
+    left:26.4%;
+}
+
