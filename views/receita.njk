@@ -19,7 +19,7 @@
             <div id="ingredientes">
                 <div class="subtitle">
                     <h1>Ingredientes</h1>   
-                    <button class="esconder">ESCONDER</button>
+                    <button class="esconder">Detalhe</button>
                 </div>
                 <ul class='hide-ingredientes'>
                     {%for ingredient in item.ingredients%} 
@@ -30,14 +30,14 @@
             <div id="prepare">
                 <div class="subtitle">
                     <h1>Modo de preparo</h1> 
-                    <button class="mostrar">ESCONDER</button>
+                    <button class="mostrar">Detalhe</button>
                 </div>           
                 <p class='hide-prepare display'>{{item.preparation}}</p>
             </div>
             <div id="information">
                 <div class="subtitle">
                     <h1>Informações adicionais</h1>
-                    <button class="esconder-information">ESCONDER</button>
+                    <button class="esconder-information">Detalhe</button>
                 </div>
                 <p class='hide-information '>{{item.information}}</p>
             </div>
