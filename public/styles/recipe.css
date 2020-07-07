@@ -1,6 +1,7 @@
 .recipe img {
     border-radius: 15px;
     margin: 18px 0 50px 0;
+    width: 100%;
 }
 
 .recipe h3 {
