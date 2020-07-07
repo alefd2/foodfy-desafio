@@ -44,6 +44,4 @@ server.get("/receita", function (req, res) {
 
 
 
-server.listen(5000, ()=>{
-    console.log('server is runing');
-})
+server.listen(process.env.PORT || 5000 );
