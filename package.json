@@ -1,0 +1,29 @@
+{
+  "name": "foodfy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alefd2/foodfy-desafio.git"
+  },
+  "keywords": [
+    "Rocketseat"
+  ],
+  "author": "Alef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alefd2/foodfy-desafio/issues"
+  },
+  "homepage": "https://github.com/alefd2/foodfy-desafio#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "nunjucks": "^3.2.1"
+  }
+}

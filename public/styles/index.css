@@ -19,6 +19,7 @@ body {
 
 .container {
     width: 80%;
+    max-width: 1100px;
     height: 100%;
     margin: 0 auto;
     max-width: 900px;
@@ -91,16 +92,21 @@ div .banner {
 
 
 /* ===============================*/
-.title {
-    margin: 4.5% 0 1.4% 0;
-    font-size: 26px;
+.separar{
+    color: var(--color-font);
+    font-size: 15px;
+    font-weight: bold;
+    margin: 20px 0;
 }
+
 #receitas {
     display: grid;
  
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 20px;
 }
+
+
 section .content-receitas img {
     width: 300px;
     height: 140px;
@@ -123,6 +129,7 @@ section .content-receitas p {
 footer {
     height: 62px;
     background-color: #EEEEEE;
+    background-position: 10vw bottom;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -169,7 +176,7 @@ section h2 {
     height: 413px;
     border-radius: 16px;
     position: fixed;
-    top:31.6%;
-    left:26.4%;
+    top: 280px;
+    left: 550px;
 }
 
