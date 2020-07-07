@@ -143,6 +143,7 @@ footer p {
 /*======about=======*/
 section {
     margin: 0 auto;
+    text-align: justify;
 }
 
 section h1 {
@@ -217,6 +218,10 @@ section h2 {
         grid-template-columns: 1fr 1fr;
         column-gap: 50px;
     }
+    section {
+        margin: 0 auto;
+        text-align: justify;
+    }
 
     section .content-receitas img {
         width: 100%;
@@ -246,6 +251,10 @@ section h2 {
         position: relative;
         top: 30%;
         left: 16%;
+    }
+    section {
+        margin: 0 auto;
+        text-align: justify;
     }
 
     section .content-receitas img {
@@ -290,6 +299,10 @@ section h2 {
         color: black;
         margin-left: 30px ;
         width: 80%;
+    }
+    section {
+        margin: 0 auto;
+        text-align: justify;
     }
 
 }
