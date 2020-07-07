@@ -102,7 +102,6 @@ div .banner {
  
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 20px;
-    transition: 400ms;
 }
 
 
@@ -116,6 +115,7 @@ section .content-receitas img {
 section .content-receitas h3 {
     font-size: 18px;
     margin: 15px 0 1px 0;
+    transition: 400ms;
 }
 
 section .content-receitas p {
