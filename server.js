@@ -34,16 +34,14 @@ server.get("/receita", function (req, res) {
        }
     })
     if (!receita){
-        res.send('Not found')
+        
+        res.status(404).render("notfound");
     }
    
     return res.render('receita', {item: receita})
 
 })
 
-server.use(function(req, res) {
-    res.status(404).send("not-found");
-});
 
 
 server.listen(5000, ()=>{
