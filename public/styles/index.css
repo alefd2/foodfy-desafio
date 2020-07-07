@@ -111,6 +111,7 @@ section .content-receitas img {
     width: 300px;
     height: 140px;
     border-radius: 15px;
+    cursor: pointer;
 }
 
 section .content-receitas h3 {
