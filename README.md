@@ -89,4 +89,4 @@
 </h1>
 </p>
 
-Desenvolvido por © Alef Oliveira
+Desenvolvido por © [Alef Oliveira](https://www.linkedin.com/in/alefoliv/)
