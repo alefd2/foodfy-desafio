@@ -49,7 +49,7 @@
 - 🚀 JavaScript
 
 ---
-- Exemplo com modal
+### Exemplo com modal
 <h1 align="center">
     <img src="imgreadme/gif.gif" width="400px">
 </h1>
