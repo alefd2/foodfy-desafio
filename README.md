@@ -72,6 +72,8 @@
 ---
 ## Apresentação do projeto
 <p aling="center">
+
+## Tela web
 <h1>
     <img src="imgreadme/webtela.gif" width="400px">
 </h1>
