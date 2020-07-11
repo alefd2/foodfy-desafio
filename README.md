@@ -74,17 +74,17 @@
 <p aling="center">
 
 ## Tela web
-<h1>
+<h1 align="center">
     <img src="imgreadme/webtela.gif" width="400px">
 </h1>
 
 ## Tela mobile
-<h1>
+<h1 align="center">
     <img src="imgreadme/TelaCel.gif" width="400px">
 </h1>
 
 ## Outras Telas
-<h1>
+<h1 align="center">
     <img src="imgreadme/responsive.gif" width="400px">
 </h1>
 </p>
