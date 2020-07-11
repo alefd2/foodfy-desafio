@@ -10,6 +10,13 @@
     <img src="imgreadme/logo.jpg">
 </h1>
 
+<p align="center">
+
+  <a href="https://foodfy-teste.herokuapp.com/">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/website?up_color=badge&up_message=view&url=https%3A%2F%2Ffoodfy-teste.herokuapp.com%2F">
+  </a>
+</p>
+
 ## Indice
 - [Sobre o desafio](#-sobre-o-site)
 - [Do que se constitnuia o desafio](#-Do-que-se-constituia-o-desafio)
@@ -44,8 +51,8 @@
 ---
 
 <h1 align="center">
-Exemplo com modal
-<img src="imgreadme/gif.gif" width="400px">
+    Exemplo com modal
+    <img src="imgreadme/gif.gif" width="400px">
 </h1>
 
 
@@ -67,11 +74,11 @@ Exemplo com modal
 ## Apresentação do projeto
 <h1 align="center">
     Tela web
-    <img src="imgreadme/webtela.gif">
+    <img src="imgreadme/webtela.gif" width="400px">
     Tela celular
-    <img src="imgreadme/TelaCel.gif">
+    <img src="imgreadme/TelaCel.gif" width="400px">
     Outras telas
-    <img src="imgreadme/responsive.gif">
+    <img src="imgreadme/responsive.gif" width="400px">
 </h1>
 
 Desenvolvido por © Alef Oliveira
