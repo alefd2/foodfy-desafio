@@ -72,19 +72,20 @@
 
 ---
 ## Apresentação do projeto
-<h1 align="center">
-    Tela web
+<p aling="center">
+<h1>
     <img src="imgreadme/webtela.gif" width="400px">
 </h1>
 
-<h1 align="center">
-    Tela mobile
+## Tela mobile
+<h1>
     <img src="imgreadme/TelaCel.gif" width="400px">
 </h1>
 
-<h1 align="center">
-    Outras Telas
+## Outras Telas
+<h1>
     <img src="imgreadme/responsive.gif" width="400px">
 </h1>
+</p>
 
 Desenvolvido por © Alef Oliveira
