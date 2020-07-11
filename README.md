@@ -75,9 +75,15 @@
 <h1 align="center">
     Tela web
     <img src="imgreadme/webtela.gif" width="400px">
-    Tela celular
+</h1>
+
+<h1 align="center">
+    Tela mobile
     <img src="imgreadme/TelaCel.gif" width="400px">
-    Outras telas
+</h1>
+
+<h1 align="center">
+    Outras Telas
     <img src="imgreadme/responsive.gif" width="400px">
 </h1>
 
