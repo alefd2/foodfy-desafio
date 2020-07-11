@@ -49,9 +49,8 @@
 - 🚀 JavaScript
 
 ---
-
+- Exemplo com modal
 <h1 align="center">
-    Exemplo com modal
     <img src="imgreadme/gif.gif" width="400px">
 </h1>
 
