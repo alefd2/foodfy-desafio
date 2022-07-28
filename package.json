@@ -24,9 +24,12 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^9.6.0",
-    "nunjucks": "^3.2.1"
+    "nunjucks": "^3.2.1",
+    "normalize-url": ">=4.5.1"
   },
   "devDependencies": {
-  "minimist": ">=1.2.6"
-}
+    "minimist": ">=1.2.6",
+    "ansi-regex": ">=4.1.1",
+    "got": ">=11.8.5"
+  }
 }
