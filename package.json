@@ -23,7 +23,7 @@
   "description": "<h1 align=\"center\">\r     <img src=\"imgreadme/logolaunchbase.png\">\r </h1>",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.4",
+    "nodemon": "^11.8.5",
     "nunjucks": "^3.2.1"
   },
   "devDependencies": {
